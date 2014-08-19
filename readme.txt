@@ -15,6 +15,10 @@
 	- run=> node server.js (this will start node server)
 9) don't close these cmd
 10) open multiple browser and run chat project
+	http://localhost/chat/
+			"OR"
+	http://192.168.0.9/chat/
+	
 	- name: your name
 	- password: don
 
